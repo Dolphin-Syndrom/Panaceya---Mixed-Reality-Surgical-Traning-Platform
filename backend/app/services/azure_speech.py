@@ -1,0 +1,1 @@
+"""Azure Speech service client."""
